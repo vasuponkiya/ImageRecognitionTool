@@ -1,0 +1,5 @@
+django
+tensorflow
+numpy
+joblib
+pillow
